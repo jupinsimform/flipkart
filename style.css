@@ -353,6 +353,11 @@ a {
   font-weight: bold;
   border-radius: 2px;
   border: none;
+  transition: 0.2s;
+}
+
+.btn button:hover {
+  background-color: #2868cf;
 }
 
 /* ==Product items== */
@@ -450,6 +455,11 @@ a {
   font-weight: bold;
   border-radius: 2px;
   border: none;
+  transition: 0.2s;
+}
+
+.btn_2 button:hover {
+  background-color: #2868cf;
 }
 
 /* ========== Carousel ========= */
