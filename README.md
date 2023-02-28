@@ -26,8 +26,8 @@
 
 ## Carousel
 
-    Here owl carousel library is used for carousel Purpose.
-    [owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
+Here owl carousel library is used for carousel Purpose.
+[owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
 ## Topic that covers in HTML LMS Course
 
@@ -66,5 +66,3 @@
     -CSS Media Queries
     -CSS Flex-box
     -CSS Grid
-
-## Icons
