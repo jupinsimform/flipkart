@@ -358,6 +358,7 @@ a {
 
 .btn button:hover {
   background-color: #2868cf;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
 /* ==Product items== */
@@ -460,6 +461,7 @@ a {
 
 .btn_2 button:hover {
   background-color: #2868cf;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 
 /* ========== Carousel ========= */
