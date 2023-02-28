@@ -235,7 +235,6 @@ a {
 
 .categories {
   background-color: #fff;
-  flex-wrap: wrap;
   margin-bottom: 15px;
 }
 
@@ -507,6 +506,13 @@ a {
     margin-left: 10%;
   }
   .nav1 {
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .cat_header {
+    flex-wrap: wrap;
     justify-content: center;
   }
 }
