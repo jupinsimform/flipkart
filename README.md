@@ -2,7 +2,7 @@
 
 ## Site Link
 
-[flipkart](https://jupinsimform.github.io/flipkart/)
+[flipkart](https://jupinsimform.github.io/flipkart-lms/)
 
 ## Site view for different Screen Resolution
 
