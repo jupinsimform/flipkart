@@ -276,9 +276,8 @@ a {
 
 .cat_name span {
   position: absolute;
-  top: -3px;
-  width: 5px;
-  height: 5px;
+  top: 2px;
+  margin-left: 6px;
 }
 
 /*=========== Product Contianer =========== */
